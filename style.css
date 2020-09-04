@@ -1,0 +1,77 @@
+body
+{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.title-block
+{
+    background-color: transparent;
+    margin: 50px auto;
+    border-style: none;
+    width: 400px;
+    height: 185px;
+}
+
+.image
+{
+    width: 120px;
+    height: 50px;
+    padding: 0 140px 0 140px;
+}
+
+. quote-text
+{
+    color:  gray;
+    font-size: xx-large;
+    text-align: center;
+}
+
+.signin-text
+{
+    color: gray;
+    font-size: large;
+    text-align: center;
+}
+
+.container {
+    background-color: whitesmoke;
+    height: 300px;
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px 0 20px 0;
+    -moz-box-shadow: 0 2px 2px gray;
+    -webkit-box-shadow: 0 2px 2px gray;
+    border-radius: 8px;
+}
+
+.profile-image
+{
+    padding: 20px 160px 0 160px;
+}
+
+.mail-input
+{
+    caret-color: gray;
+    -webkit-text-fill-color: gray;
+    padding: 20px 70px 0 70px;
+}
+
+.login-buttons
+{
+    padding: 2px 70px 0 70px;
+    color-rendering: auto;
+    -webkit-text-fill-color: gray;
+}
+
+.footer {
+    background-color: transparent;
+    position: fixed;
+    bottom: 0;
+    height: auto;
+    width: 100%;
+    border-width: thin;
+    border-style: solid;
+    border-top-color: gray;
+
+}
+
